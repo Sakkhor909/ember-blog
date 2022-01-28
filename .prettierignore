@@ -1,3 +1,8 @@
+/config/environment.js
+/config/targets.js
+
+
+
 # unconventional js
 /blueprints/*/files/
 /vendor/
