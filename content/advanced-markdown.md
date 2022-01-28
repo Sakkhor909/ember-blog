@@ -1,15 +1,15 @@
 ---
-title: Advanced Markdown tips
+title: Advanced Markdown tips edit test
 image: /images/advanced.jpg
 imageMeta:
-  attribution:
-  attributionLink:
+  ? attribution
+  ? attributionLink
 featured: true
 authors:
   - ghost
-date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
   - getting-started
+date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 ---
 
 There are lots of powerful things you can do with the Markdown
